@@ -9,3 +9,7 @@ this is a simple read me file
 =======
 #trouble trouble and trouble
 >>>>>>> very-bad
+
+
+updates in stage
+another line added
